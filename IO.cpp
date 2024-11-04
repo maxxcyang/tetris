@@ -1,3 +1,8 @@
+/*****************************************************************************************
+/* File: IO.cpp
+/* Desc: Handles IO with SDL2 library
+*/
+
 #include "IO.h"
 #include <cstdio>
 #include <SDL2/SDL.h>  // Include the SDL2 header
